@@ -1,0 +1,13 @@
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.exe
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.deps.json
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.runtimeconfig.json
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.dll
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\bin\Debug\netcoreapp3.1\AbatTritemiiCipher.pdb
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.dll
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.pdb
+C:\Users\Pavel\Desktop\Курсови работи\AbatTritemiiCipher\AbatTritemiiCipher\obj\Debug\netcoreapp3.1\AbatTritemiiCipher.genruntimeconfig.cache
